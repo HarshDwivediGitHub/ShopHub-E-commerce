@@ -1,73 +1,108 @@
-# Welcome to your Lovable project
+# 🚀 ShopHub – E-Commerce Web App
 
-## Project info
+🛍️ **A modern and responsive e-commerce web application built with React, TypeScript, and Tailwind CSS.**
 
-**URL**: https://lovable.dev/projects/5e8f1580-ef9b-408b-8507-81150cccaf22
+---
 
-## How can I edit this code?
+## 📘 Project Overview  
+ShopHub is a sleek and fast e-commerce platform designed to provide users with a seamless online shopping experience.  
+It features a modular architecture, reusable UI components, and a responsive layout optimized for both desktop and mobile users.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🌐 Live Demo  
+**URL:** [https://shop-hub-e-commerce-eight.vercel.app/](https://shop-hub-e-commerce-eight.vercel.app/)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5e8f1580-ef9b-408b-8507-81150cccaf22) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Technologies Used  
+This project is built using the following stack:
 
-**Use your preferred IDE**
+- ⚡ **Vite** – for lightning-fast builds and HMR  
+- 🧠 **TypeScript** – for type-safe and scalable development  
+- ⚛️ **React** – for building interactive UIs  
+- 🎨 **Tailwind CSS** – for modern, utility-first styling  
+- 🧩 **shadcn/ui** – for beautifully pre-styled UI components  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 💻 How to Run the Project Locally  
 
-Follow these steps:
+Follow these steps to set up and run the project on your local machine:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Step 1: Clone the Repository  
+```bash
+git clone https://github.com/HarshDwivediGitHub/ShopHub-E-commerce.git
+Step 2: Navigate to the Project Directory
+bash
+Copy code
+cd ShopHub-E-commerce
+Step 3: Install Dependencies
+Make sure you have Node.js and npm installed. Then run:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+bash
+Copy code
+npm install
+Step 4: Start the Development Server
+Run the development server with live reloading:
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+bash
+Copy code
 npm run dev
+The app will be available at http://localhost:5173 by default.
+
+🧑‍💻 Editing the Code
+You can edit the project using any code editor such as VS Code.
+
+📝 Option 1: Edit Directly on GitHub
+Navigate to the desired file.
+
+Click the ✏️ (Edit) icon at the top right.
+
+Make your changes and commit them.
+
+💻 Option 2: Work Locally in Your IDE
+Clone the repo as shown above.
+
+Open it in VS Code (or your preferred IDE).
+
+Make changes, test them locally, and push commits.
+
+☁️ Option 3: Use GitHub Codespaces
+Go to your repository’s main page.
+
+Click Code → Codespaces → New Codespace.
+
+Edit and preview changes in a cloud-based environment.
+
+🚀 Deployment
+To deploy the project:
+
+Use platforms like Vercel, Netlify, or GitHub Pages.
+
+Simply connect your GitHub repository and deploy from your main branch.
+
+🌍 Custom Domain
+If hosting with Vercel or Netlify:
+
+Go to your project’s settings.
+
+Add a custom domain (e.g., www.yourdomain.com).
+
+Update your DNS settings as directed by the hosting provider.
+
+👨‍💻 Developer
+Developed by: Harsh Dwivedi
+GitHub: @HarshDwivediGitHub
+
+📄 License
+This project is open-source and available for personal and educational use.
+Feel free to modify or expand it as needed.
 ```
+Preview
 
-**Edit a file directly in GitHub**
+<img width="1453" height="695" alt="image" src="https://github.com/user-attachments/assets/eb2b06c1-2321-4a4d-a94b-21e47522c2d4" />
+<img width="1908" height="824" alt="image" src="https://github.com/user-attachments/assets/09fe0ec6-5a1d-4f06-981a-989f915d26dd" />
+<img width="1896" height="856" alt="image" src="https://github.com/user-attachments/assets/52d03829-d500-4a8a-a28e-e8d59d3c1d45" />
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5e8f1580-ef9b-408b-8507-81150cccaf22) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
